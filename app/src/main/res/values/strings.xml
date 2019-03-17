@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EasyRemainder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dont_splash">Не показывать заставку</string>
+    <string name="current_task">Активные</string>
+    <string name="done_task">Завершённые</string>
+    <string name="dialog_OK">OK</string>
+    <string name="dialog_Cancel">Отмена</string>
+    <string name="dialog_error_title">Пожалуйста, введите название задачи.</string>
+    <string name="dialog_error_date">Пожалуйста, введите дату.</string>
+    <string name="dialog_title">Добавить задачу</string>
+    <string name="editing_dialog_title">Редактирование задачи</string>
+    <string name="task_title">Название</string>
+    <string name="task_date">Дата</string>
+    <string name="task_time">Время</string>
+
+
+    <string name="dialog_remove_message">Удалить задачу?</string>
+    <string name="removed">Удалить</string>
+
+    <string name="separator_overdue">Просроченные</string>
+    <string name="separator_today">Сегодня</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="separator_future">Будущие</string>
+
+
+
+</resources>
